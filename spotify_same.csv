@@ -1,0 +1,84 @@
+artist_names,track_name,peak_rank,weeks_on_chart,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,tempo,duration_ms,song_and_artist
+Glass Animals,Heat Waves,1,65,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,80.87,238805,Heat Waves-Glass Animals
+"Bad Bunny, Jhay Cortez",DÁKITI,1,73,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,109.928,205090,"DÁKITI-Bad Bunny, Jhay Cortez"
+Måneskin,Beggin',1,42,0.714,0.8,11,-4.808,0,0.0504,0.127,0.0,0.359,134.002,211560,Beggin'-Måneskin
+The Weeknd,Blinding Lights,1,121,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,171.005,200040,Blinding Lights-The Weeknd
+Olivia Rodrigo,good 4 u,1,45,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,166.928,178147,good 4 u-Olivia Rodrigo
+"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),1,53,0.677,0.696,0,-6.181,1,0.119,0.321,0.0,0.42,90.03,198082,"Peaches (feat. Daniel Caesar & Giveon)-Justin Bieber, Daniel Caesar, Giveon"
+"24kGoldn, iann dior",Mood (feat. iann dior),1,85,0.701,0.716,7,-3.671,0,0.0361,0.174,0.0,0.324,91.007,140533,"Mood (feat. iann dior)-24kGoldn, iann dior"
+Ariana Grande,positions,1,74,0.737,0.802,0,-4.771,1,0.0878,0.468,0.0,0.0931,144.015,172325,positions-Ariana Grande
+Olivia Rodrigo,drivers license,1,63,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,143.875,242013,drivers license-Olivia Rodrigo
+Harry Styles,As It Was,1,19,0.52,0.731,6,-5.338,0,0.0557,0.342,0.00101,0.311,173.93,167303,As It Was-Harry Styles
+Joji,Glimpse of Us,1,9,0.44,0.317,8,-9.258,1,0.0531,0.891,4.78e-06,0.141,169.914,233456,Glimpse of Us-Joji
+GAYLE,abcdefu,1,19,0.695,0.54,4,-5.692,1,0.0493,0.299,0.0,0.367,121.932,168602,abcdefu-GAYLE
+"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),1,37,0.591,0.764,1,-5.484,1,0.0483,0.0383,0.0,0.103,169.928,141806,"STAY (with Justin Bieber)-The Kid LAROI, Justin Bieber"
+Kate Bush,Running Up That Hill (A Deal With God),1,11,0.629,0.547,10,-13.123,0,0.055,0.72,0.00314,0.0604,108.375,298933,Running Up That Hill (A Deal With God)-Kate Bush
+Lil Nas X,MONTERO (Call Me By Your Name),1,52,0.593,0.503,8,-6.725,0,0.22,0.293,0.0,0.405,178.781,137704,MONTERO (Call Me By Your Name)-Lil Nas X
+"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),2,35,0.741,0.691,10,-7.395,0,0.0672,0.0221,0.0,0.0476,150.087,212353,"INDUSTRY BABY (feat. Jack Harlow)-Lil Nas X, Jack Harlow"
+Harry Styles,Late Night Talking,2,12,0.714,0.728,10,-4.595,1,0.0468,0.298,0.0,0.106,114.996,177955,Late Night Talking-Harry Styles
+Jack Harlow,First Class,2,18,0.902,0.582,5,-5.902,0,0.109,0.111,3.18e-06,0.111,107.005,173948,First Class-Jack Harlow
+Rauw Alejandro,Todo De Ti,2,44,0.78,0.719,3,-3.613,0,0.0506,0.302,0.000196,0.0931,127.962,199604,Todo De Ti-Rauw Alejandro
+Dua Lipa,Don't Start Now,2,125,0.793,0.793,11,-4.521,0,0.083,0.0123,0.0,0.0951,123.95,183290,Don't Start Now-Dua Lipa
+Maroon 5,Memories,2,116,0.775,0.327,11,-7.241,1,0.0557,0.841,0.0,0.0821,91.05,189486,Memories-Maroon 5
+Polo G,RAPSTAR,3,40,0.789,0.536,6,-6.862,1,0.242,0.41,0.0,0.129,81.039,165926,RAPSTAR-Polo G
+Masked Wolf,Astronaut In The Ocean,3,53,0.778,0.695,4,-6.865,0,0.0913,0.175,0.0,0.15,149.996,132780,Astronaut In The Ocean-Masked Wolf
+Ed Sheeran,Bad Habits,3,39,0.807,0.893,11,-3.745,0,0.0347,0.0451,2.79e-05,0.366,126.011,230747,Bad Habits-Ed Sheeran
+"Doja Cat, SZA",Kiss Me More (feat. SZA),3,50,0.764,0.705,8,-3.463,1,0.0284,0.259,8.92e-05,0.12,110.97,208667,"Kiss Me More (feat. SZA)-Doja Cat, SZA"
+Lil Nas X,THATS WHAT I WANT,3,27,0.737,0.846,1,-4.51,0,0.22,0.00614,0.0,0.0486,87.981,143901,THATS WHAT I WANT-Lil Nas X
+Anitta,Envolver,3,3,0.812,0.736,4,-5.421,0,0.0833,0.152,0.00254,0.0914,91.993,193806,Envolver-Anitta
+"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,3,21,0.728,0.783,11,-4.424,0,0.266,0.237,0.0,0.434,77.011,173381,"Enemy (with JID) - from the series Arcane League of Legends-Imagine Dragons, JID, Arcane, League of Legends"
+Farruko,Pepas,4,37,0.762,0.766,7,-3.955,1,0.0343,0.00776,6.98e-05,0.128,130.001,287120,Pepas-Farruko
+"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,4,32,0.795,0.8,1,-6.32,1,0.0309,0.0354,7.25e-05,0.0915,116.032,202735,"Cold Heart - PNAU Remix-Elton John, Dua Lipa, PNAU"
+"Dua Lipa, DaBaby",Levitating (feat. DaBaby),4,77,0.702,0.825,6,-3.787,0,0.0601,0.00883,0.0,0.0674,102.977,203064,"Levitating (feat. DaBaby)-Dua Lipa, DaBaby"
+LISA,MONEY,5,28,0.831,0.554,1,-9.998,0,0.218,0.161,6.12e-05,0.152,140.026,168228,MONEY-LISA
+"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,5,55,0.586,0.616,5,-7.964,1,0.0324,0.182,0.0,0.0927,148.088,242096,"Leave The Door Open-Bruno Mars, Anderson .Paak, Silk Sonic"
+"Becky G, KAROL G",MAMIII,5,6,0.843,0.7,4,-3.563,0,0.0803,0.0934,0.0,0.14,93.991,226088,"MAMIII-Becky G, KAROL G"
+Doja Cat,Need to Know,6,41,0.664,0.609,1,-6.509,1,0.0707,0.304,0.0,0.0926,130.041,210560,Need to Know-Doja Cat
+Doja Cat,Woman,6,37,0.824,0.764,5,-4.175,0,0.0854,0.0888,0.00294,0.117,107.998,172627,Woman-Doja Cat
+"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),7,8,0.529,0.673,0,-4.711,1,0.175,0.000307,2.41e-06,0.093,165.921,218365,"Jimmy Cooks (feat. 21 Savage)-Drake, 21 Savage"
+Tiësto,The Business,9,64,0.798,0.62,8,-7.079,0,0.232,0.414,0.0192,0.112,120.031,164000,The Business-Tiësto
+Lizzo,About Damn Time,9,15,0.836,0.743,10,-6.305,0,0.0653,0.0974,0.0,0.335,108.965,191938,About Damn Time-Lizzo
+CKay,love nwantiti (ah ah ah),9,28,0.727,0.739,8,-3.805,1,0.0411,0.365,0.00137,0.161,93.005,145800,love nwantiti (ah ah ah)-CKay
+Steve Lacy,Bad Habit,10,5,0.686,0.494,1,-7.093,1,0.0355,0.613,5.8e-05,0.402,168.946,232067,Bad Habit-Steve Lacy
+"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),13,3,0.756,0.697,8,-6.377,1,0.0401,0.182,0.0,0.333,94.996,206071,"Bam Bam (feat. Ed Sheeran)-Camila Cabello, Ed Sheeran"
+Elley Duhé,MIDDLE OF THE NIGHT,14,13,0.41,0.611,4,-8.271,0,0.0467,0.0228,0.0,0.116,185.727,184448,MIDDLE OF THE NIGHT-Elley Duhé
+Oliver Tree,Life Goes On,15,20,0.7,0.49,0,-5.187,1,0.076,0.186,0.0,0.117,79.982,161803,Life Goes On-Oliver Tree
+"Doja Cat, The Weeknd",You Right,15,39,0.828,0.621,8,-6.414,1,0.0565,0.0164,0.00233,0.0845,128.986,186173,"You Right-Doja Cat, The Weeknd"
+"Riton, Nightcrawlers, Mufasa & Hypeman, Dopamine",Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,15,48,0.824,0.862,2,-3.424,1,0.126,0.0076,0.000132,0.303,122.98,169153,"Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit-Riton, Nightcrawlers, Mufasa & Hypeman, Dopamine"
+The Kid LAROI,Thousand Miles,18,6,0.376,0.657,7,-4.658,1,0.0768,0.0858,0.0,0.0884,80.565,164782,Thousand Miles-The Kid LAROI
+"Post Malone, Roddy Ricch",Cooped Up (with Roddy Ricch),18,13,0.669,0.773,0,-5.619,1,0.153,0.038,0.0,0.113,93.923,185857,"Cooped Up (with Roddy Ricch)-Post Malone, Roddy Ricch"
+Charlie Puth,Light Switch,19,9,0.69,0.626,6,-5.693,1,0.306,0.105,0.000335,0.0881,184.009,185681,Light Switch-Charlie Puth
+SZA,I Hate U,19,7,0.535,0.388,7,-9.805,0,0.155,0.507,0.0,0.11,106.703,174000,I Hate U-SZA
+Shawn Mendes,When You're Gone,21,9,0.603,0.691,5,-5.805,1,0.0372,0.0248,0.0,0.583,147.148,172267,When You're Gone-Shawn Mendes
+Doja Cat,Ain't Shit,22,21,0.855,0.488,3,-4.601,1,0.208,0.506,0.0,0.347,124.097,174253,Ain't Shit-Doja Cat
+"Amaarae, Kali Uchis, Moliy",SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),23,12,0.87,0.523,1,-8.052,0,0.0602,0.433,2.07e-05,0.113,110.02,204764,"SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)-Amaarae, Kali Uchis, Moliy"
+"Tiësto, Ava Max",The Motto,23,20,0.754,0.763,7,-4.627,0,0.0435,0.0301,2.23e-05,0.0901,117.953,164819,"The Motto-Tiësto, Ava Max"
+"THE ANXIETY, WILLOW, Tyler Cole",Meet Me At Our Spot,24,29,0.773,0.47,2,-7.93,1,0.0299,0.0153,0.000193,0.0851,94.995,162680,"Meet Me At Our Spot-THE ANXIETY, WILLOW, Tyler Cole"
+Rosa Linn,SNAP,26,5,0.565,0.636,0,-8.198,1,0.0638,0.107,9.9e-06,0.447,170.01,179551,SNAP-Rosa Linn
+"Nicky Youre, dazy",Sunroof,28,14,0.768,0.714,10,-5.11,1,0.0401,0.352,0.0,0.15,131.443,163026,"Sunroof-Nicky Youre, dazy"
+Harry Styles,Falling,29,81,0.567,0.267,4,-6.502,1,0.0299,0.839,1.46e-06,0.089,110.011,240133,Falling-Harry Styles
+The Neighbourhood,Sweater Weather,29,82,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,124.053,240400,Sweater Weather-The Neighbourhood
+Stephen Sanchez,Until I Found You,30,14,0.539,0.508,10,-6.05,1,0.0288,0.727,0.0,0.174,101.358,177720,Until I Found You-Stephen Sanchez
+"Sofía Reyes, Jason Derulo, De La Ghetto","1, 2, 3 (feat. Jason Derulo & De La Ghetto)",31,36,0.792,0.895,1,-3.112,0,0.0587,0.165,0.0,0.0501,94.968,201526,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)-Sofía Reyes, Jason Derulo, De La Ghetto"
+Tom Odell,Another Love,31,50,0.442,0.538,4,-8.55,0,0.0451,0.717,2.95e-05,0.09,122.758,244360,Another Love-Tom Odell
+Eminem,Without Me,31,26,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,112.238,290320,Without Me-Eminem
+"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),32,23,0.717,0.671,0,-5.077,0,0.0337,0.0018,2.54e-06,0.0921,110.054,160657,"Better Days (NEIKED x Mae Muller x Polo G)-NEIKED, Mae Muller, Polo G"
+Ruth B.,Dandelions,35,32,0.609,0.692,1,-2.958,1,0.0259,0.0157,0.0,0.0864,116.959,233720,Dandelions-Ruth B.
+Bruno Mars,Talking to the Moon,45,50,0.498,0.59,1,-4.721,0,0.032,0.511,0.0,0.107,145.867,217867,Talking to the Moon-Bruno Mars
+Frank Ocean,Lost,50,10,0.913,0.603,8,-4.892,1,0.226,0.0272,0.000503,0.167,123.061,234093,Lost-Frank Ocean
+Emmy Meli,I AM WOMAN,51,8,0.646,0.471,10,-9.247,1,0.157,0.122,0.0,0.125,170.084,232813,I AM WOMAN-Emmy Meli
+The Weeknd,The Hills,52,50,0.585,0.564,0,-7.063,0,0.0515,0.0671,0.0,0.135,113.003,242253,The Hills-The Weeknd
+"Jnr Choi, Sam Tompkins",TO THE MOON,55,11,0.745,0.65,2,-11.814,1,0.346,0.0451,0.00758,0.111,144.047,152137,"TO THE MOON-Jnr Choi, Sam Tompkins"
+Surf Curse,Freaks,55,47,0.345,0.941,9,-9.918,1,0.0466,3.84e-05,0.633,0.0511,179.626,147062,Freaks-Surf Curse
+Demi Lovato,Cool for the Summer,61,1,0.583,0.61,5,-5.639,0,0.0382,0.00425,0.000105,0.14,114.06,214740,Cool for the Summer-Demi Lovato
+Panic! At The Disco,House of Memories,64,16,0.506,0.817,11,-5.051,0,0.0335,0.00272,0.0,0.0486,109.952,208707,House of Memories-Panic! At The Disco
+"Luude, Colin Hay",Down Under (feat. Colin Hay),72,10,0.308,0.86,11,-4.111,0,0.168,0.0116,0.000828,0.277,171.835,158774,"Down Under (feat. Colin Hay)-Luude, Colin Hay"
+Yung Gravy,Betty (Get Money),78,5,0.723,0.772,1,-6.784,1,0.0792,0.00524,1.15e-05,0.367,102.004,146471,Betty (Get Money)-Yung Gravy
+SALES,Pope Is a Rockstar,108,5,0.725,0.446,4,-8.958,0,0.0287,0.85,0.243,0.107,90.024,187333,Pope Is a Rockstar-SALES
+OneRepublic,Counting Stars,117,54,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.118,122.016,257267,Counting Stars-OneRepublic
+Vance Joy,Riptide,122,64,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,101.654,204280,Riptide-Vance Joy
+"Maroon 5, Wiz Khalifa",Payphone,136,14,0.743,0.752,4,-4.813,1,0.0414,0.0188,0.0,0.287,110.015,231173,"Payphone-Maroon 5, Wiz Khalifa"
+WILLOW,Wait a Minute!,138,1,0.764,0.705,3,-5.279,0,0.0278,0.0371,1.94e-05,0.0943,101.003,196520,Wait a Minute!-WILLOW
+LF SYSTEM,Afraid To Feel,150,5,0.578,0.912,1,-3.929,1,0.114,0.0166,0.00362,0.273,127.87,177525,Afraid To Feel-LF SYSTEM
+Labrinth,Forever,185,1,0.563,0.459,4,-7.781,0,0.0292,0.92,0.724,0.11,79.983,202536,Forever-Labrinth
+Imagine Dragons,Demons,194,2,0.505,0.71,3,-3.015,1,0.0321,0.19,0.00025,0.269,89.938,177507,Demons-Imagine Dragons
