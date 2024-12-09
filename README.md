@@ -13,4 +13,5 @@ Dataset license (shared across both datasets):
 https://creativecommons.org/publicdomain/zero/1.0/
 
 Online refrences:
-[1]https://l1neupdigital.medium.com/case-study-viral-tik-tok-artists-spotify-monthly-listeners-vs-followers-[2]b8e4b159fa26  https://medium.com/@cohenneeman/tiktok-vs-spotify-the-shape-of-music-thru-an-interface-df4ef085425e
+[1]https://l1neupdigital.medium.com/case-study-viral-tik-tok-artists-spotify-monthly-listeners-vs-followers-[2]b8e4b159fa26  
+https://medium.com/@cohenneeman/tiktok-vs-spotify-the-shape-of-music-thru-an-interface-df4ef085425e
